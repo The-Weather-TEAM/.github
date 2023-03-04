@@ -1,5 +1,5 @@
 # Bienvenue  !
-La Weather TEAM est un groupe d'étudiants français, participant au concours des trophées NSI édition 2022-2023. Elle est constituée de 5 membres, tous étudiants au lycée Henri IV à Béziers.
+La Weather TEAM est un groupe d'étudiants français, participant au concours des trophées NSI édition 2022-2023. Elle est constituée de 4 membres, tous étudiants au lycée Henri IV à Béziers.
 
 Notre but est d'apporter des projets qui luttent et sensibilisent envers les changements climatiques qui s'accointent et apporter des solution pour les utilisateurs.
 
